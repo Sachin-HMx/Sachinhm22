@@ -65,10 +65,7 @@ Explore full architecture visuals and system workflows:
 
 ## 💼 Experience
 
-**Freelance Technical Writer** (Feb 2026 – Present)  
-Writing developer documentation, protocol deep dives, and long-form technical articles for Web3 teams.
-
-**Technical Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
+**Technical Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – present)  
 ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 200+ long-form X posts on DeFi, L2, stablecoins, and AI.
 
 **Associate Technical Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
