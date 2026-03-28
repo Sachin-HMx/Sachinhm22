@@ -50,7 +50,6 @@ I write developer-focused documentation that turns complex systems into clear, u
 | Starknet Perps Chain Architecture | System Analysis | L2 trading infra design | [Read](https://x.com/Eli5defi/status/2014624417759023141) |
 | Hermes Subnet Data Layer for AI Agents | Infra Overview | Data layers & AI infra | [Read](https://x.com/Eli5defi/status/2013507798550859792) |
 | Quantum Threats to Bitcoin | Cryptography Analysis | Post-quantum security risks | [Read](https://x.com/Eli5defi/status/1991431847893692423) |
-| Why Privacy is a Moat in 2026 | Concept Essay | Narrative + privacy thesis | [Read](https://x.com/SachinHMx/status/2017992805491282430?s=20) |
 
 
 ---
