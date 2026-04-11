@@ -1,47 +1,24 @@
 # Hi, I'm Sachin
 
-Technical writer with 3+ years of experience in SaaS, Web3, and AI.
-I write developer-focused documentation that turns complex systems into clear, usable workflows.
+Web3 Content writer with 3+ years of experience in writing Web3/blockchain content.
+I write articles, threads, blogs, and X tweets that resonate with your brand and audience, using clear visuals.
 
 ---
 
 
 ## ✍️ Work
 
-- Developer documentation  
+- High-performing X threads  
 - Technical blogs & articles  
-- Protocol deep dives  
-- Research analysis  
-- Architecture diagrams  
+- Protocol deep dives (simplified)
+- Research breakdowns (insight → content)
+- Visual explainers & architecture diagrams
 
 
 
 ---
 
-
-## 📂 Featured Documentation Work
-
-| Project | Type | Impact | Proof |
-|---------|------|--------|-------|
-| **Chainlink Functions – Complete Developer Guide (2026)** | Protocol Architecture Documentation | Authored and deployed a system-level guide explaining Chainlink Functions architecture, request lifecycle, billing model, OCR aggregation, and execution constraints. | [Live Docs](https://chainlink-docs-one.vercel.app/functions/) |
-| Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
-| Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
-
----
-
-
-## 🛠️ Tools I Work With
-
-- Docs: Astro, Starlight, Docusaurus, MDX
-- Versioning: Git & GitHub
-- Diagrams: Excalidraw, Mermaid.js
-- Design: Canva
-
-
----
-
-
-## ✍ Technical Writing & Research
+## ✍ Writing & Research
 
 | Topic | Type | Focus | Link |
 |------|------|-------|------|
@@ -51,6 +28,15 @@ I write developer-focused documentation that turns complex systems into clear, u
 | Hermes Subnet Data Layer for AI Agents | Infra Overview | Data layers & AI infra | [Read](https://x.com/Eli5defi/status/2013507798550859792) |
 | Quantum Threats to Bitcoin | Cryptography Analysis | Post-quantum security risks | [Read](https://x.com/Eli5defi/status/1991431847893692423) |
 
+---
+
+## 📂 Featured Documentation Work
+
+| Project | Type | Impact | Proof |
+|---------|------|--------|-------|
+| **Chainlink Functions – Complete Developer Guide (2026)** | Protocol Architecture Documentation | Authored and deployed a system-level guide explaining Chainlink Functions architecture, request lifecycle, billing model, OCR aggregation, and execution constraints. | [Live Docs](https://chainlink-docs-one.vercel.app/functions/) |
+| Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
+| Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
 ---
 
@@ -66,7 +52,7 @@ Explore full architecture visuals and system workflows:
 ## 💼 Experience
 
 **Technical Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Present)  
-ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 200+ long-form X posts on DeFi, L2, stablecoins, and AI.
+ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 250+ long-form and short form X posts on DeFi, L2, stablecoins, and AI.
 
 **Associate Technical Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
 Ampli5 is a KOL marketing agency. Managed KOL content strategy and wrote founder-led social posts and blogs.
