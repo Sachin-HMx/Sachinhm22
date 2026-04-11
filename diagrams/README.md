@@ -12,3 +12,9 @@
 
 ## 🛡 Inco Confidential Execution Architecture
 ![Inco Architecture](inco-confidential-architecture.png)
+
+---
+
+## ⚡ ERC-8211 Architecture
+
+![ERC-8211](./ERC-8211.png)
