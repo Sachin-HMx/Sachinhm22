@@ -47,7 +47,7 @@ Explore full architecture visuals and system workflows:
 
 Explore visual breakdowns and insights:
 
-➡️ [View all infographics](https://github.com/Sachinhm22/infographics)
+➡️ [View all infographics](https://github.com/Sachinhm22/infographics/blob/main/README.md)
 
 ---
 
