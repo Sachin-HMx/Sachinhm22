@@ -45,6 +45,7 @@ I write developer-focused documentation that turns complex systems into clear, u
 
 | Topic | Type | Focus | Link |
 |------|------|-------|------|
+| How to Find Yield in 2026 | Article | Tools to find DeFi yield + identifying real yield vs noise | [Read](https://x.com/SachinHMx/status/2040045957228998900?s=20) |
 | Execution Flow of Fully Homomorphic Encryption | Technical Deep Dive | On-chain privacy execution model + diagrams | [Read](https://sachin-writings.vercel.app/fhe) |
 | Starknet Perps Chain Architecture | System Analysis | L2 trading infra design | [Read](https://x.com/Eli5defi/status/2014624417759023141) |
 | Hermes Subnet Data Layer for AI Agents | Infra Overview | Data layers & AI infra | [Read](https://x.com/Eli5defi/status/2013507798550859792) |
