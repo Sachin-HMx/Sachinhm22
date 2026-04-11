@@ -43,6 +43,14 @@ Explore full architecture visuals and system workflows:
 
 ---
 
+## 📊 Infographics
+
+Explore visual breakdowns of Web3 and DeFi concepts:
+
+➡️ [View all infographics](https://github.com/Sachinhm22/infographics)
+
+---
+
 ## 📂 Featured Documentation Work
 
 | Project | Type | Impact | Proof |
