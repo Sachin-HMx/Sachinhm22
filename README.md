@@ -63,6 +63,16 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 | Protocol Buybacks | Short-form/Opinion | Buyback models and token value accrual | [Read](https://x.com/thelearningpill/status/2070069511622189517) |
 | NEAR SPICE Upgrade | Short-form/Opinion | AI agents and high-speed blockchain infrastructure | [Read](https://x.com/thelearningpill/status/2069707862352572477) |
 
+---
+## ✍ Mercek
+| Topic | Type | Focus | Link |
+| Decentralized AI Stack | Long form | AI infrastructure, inference, and decentralized compute | [Read](https://x.com/WorldOfMercek/status/2077328470787461162) |
+| Hyperliquid's Market Expansion | Long form | Perpetual markets and institutional trading infrastructure | [Read](https://x.com/WorldOfMercek/status/2078069288464724419) |
+| Ostium Oracle Exploit | Short-form/Opinion | Oracle security and protocol risk | [Read](https://x.com/WorldOfMercek/status/2077702588535902374) |
+| Robinhood Ecosystem | Long form | DeFi infrastructure and ecosystem architecture | [Read](https://x.com/WorldOfMercek/status/2076965107116994561) |
+| Ethereum's Strawmap | Short-form/Opinion | Ethereum roadmap and protocol architecture | [Read](https://x.com/WorldOfMercek/status/2074041633616650275) |
+
+---
 
 ## 📊 Diagrams & Visual Explanations
 
