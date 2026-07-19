@@ -1,7 +1,7 @@
 # Hi, I'm Sachin
 
-Web3 Content writer with 3+ years of experience in writing Web3/blockchain content.
-I write articles, threads, blogs, and X tweets that resonate with your brand and audience, using clear visuals.
+DeFi researcher with 3+ years of experience ghostwriting for leading DeFi KOLs and protocols. 
+I write research articles, blogs, X threads, founder posts, and social media content for DeFi projects.
 
 ---
 
