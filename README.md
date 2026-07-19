@@ -52,6 +52,16 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 ## ✍ Learning Pill
 | Topic | Type | Focus | Link |
 |------|------|-------|------|
+| Ethereum's Productive Money Thesis | Short-form/Opinion | ETH, productive money, and tokenization | [Read](https://x.com/thelearningpill/status/2047262241964347709) |
+| The Pendle Effect | Short-form/Opinion | Pendle, capital flows, and yield markets | [Read](https://x.com/thelearningpill/status/2053762178239652203) |
+| Aave on Monad | Short-form/Opinion | TVL growth and DeFi infrastructure | [Read](https://x.com/thelearningpill/status/2073013978310311989) |
+| Institutional Tokenization | Short-form/Opinion | Tokenized funds and onchain capital markets | [Read](https://x.com/thelearningpill/status/2072606233211920569) |
+| Stablecoin Spending | Short-form/Opinion | Stablecoins, DeFi yields, and payments | [Read](https://x.com/thelearningpill/status/2072289182769434687) |
+| Consumer Crypto Adoption | Short-form/Opinion | Consumer apps and invisible crypto infrastructure | [Read](https://x.com/thelearningpill/status/2072266217210216580) |
+| Stablecoin Liquidity Layer | Short-form/Opinion | Shared liquidity and stablecoin infrastructure | [Read](https://x.com/thelearningpill/status/2071555213971069137) |
+| Aavenomics 3.0 | Short-form/Opinion | Buybacks, value accrual, and AAVE tokenomics | [Read](https://x.com/thelearningpill/status/2070506367539204178) |
+| Protocol Buybacks | Short-form/Opinion | Buyback models and token value accrual | [Read](https://x.com/thelearningpill/status/2070069511622189517) |
+| NEAR SPICE Upgrade | Short-form/Opinion | AI agents and high-speed blockchain infrastructure | [Read](https://x.com/thelearningpill/status/2069707862352572477) |
 
 
 ## 📊 Diagrams & Visual Explanations
