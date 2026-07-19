@@ -66,6 +66,7 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 ---
 ## ✍ Mercek
 | Topic | Type | Focus | Link |
+|------|------|-------|------|
 | Decentralized AI Stack | Long form | AI infrastructure, inference, and decentralized compute | [Read](https://x.com/WorldOfMercek/status/2077328470787461162) |
 | Hyperliquid's Market Expansion | Long form | Perpetual markets and institutional trading infrastructure | [Read](https://x.com/WorldOfMercek/status/2078069288464724419) |
 | Ostium Oracle Exploit | Short-form/Opinion | Oracle security and protocol risk | [Read](https://x.com/WorldOfMercek/status/2077702588535902374) |
