@@ -18,13 +18,10 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 
 ---
 
-## ✍ Writing & Research
+## ✍ ELi5
 
 | Topic | Type | Focus | Link |
 |------|------|-------|------|
-| Defi Credit Layer | Article | Article on how DeFi lending and yield are broken, and how the RWA credit layer is solving this | [Read](https://x.com/SachinHMx/status/2046114797310390414?s=20) |
-| How to Find Yield in 2026 | Article | Tools to find DeFi yield + identifying real yield vs noise | [Read](https://x.com/SachinHMx/status/2040045957228998900?s=20) |
-| Execution Flow of Fully Homomorphic Encryption | Technical Deep Dive | On-chain privacy execution model + diagrams | [Read](https://sachin-writings.vercel.app/fhe) |
 | Starknet Perps Chain Architecture | System Analysis | L2 trading infra design | [Read](https://x.com/Eli5defi/status/2014624417759023141) |
 | Hermes Subnet Data Layer for AI Agents | Infra Overview | Data layers & AI infra | [Read](https://x.com/Eli5defi/status/2013507798550859792) |
 | Quantum Threats to Bitcoin | Cryptography Analysis | Post-quantum security risks | [Read](https://x.com/Eli5defi/status/1991431847893692423) |
@@ -35,6 +32,27 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 | Prediction Markets Phase 2 | Research Thread | Shift from niche markets to core financial infrastructure + liquidity, distribution, and market design | [Read](https://x.com/Eli5defi/status/2013975891324633134?s=20) |
 
 ---
+
+## ✍ Mars
+| Topic | Type | Focus | Link |
+|------|------|-------|------|
+| Ondo's DTCC Integration | Thread/Long form | DTCC tokenization, RWAs, and onchain capital markets | [Read](https://x.com/Mars_DeFi/status/2078073783127339494) |
+| AI Infrastructure Frontiers | Thread/Long form | AI infrastructure, inference, continual learning, and autonomous AI | [Read](https://x.com/Mars_DeFi/status/2075547436437914056) |
+| Robinhood Chain Strategy | Thread/Long form | Distribution, DeFi infrastructure, and mainstream onchain finance | [Read](https://x.com/Mars_DeFi/status/2075155531938029869) |
+| DeFi Lending V/s Tranches | Thread/Long form | Tranching, risk allocation, and structured DeFi lending | [Read](https://x.com/Mars_DeFi/status/2074436886559604872) |
+| MiCA's Market Impact | Thread/Long form | European crypto regulation, market consolidation, and licensed exchanges | [Read](https://x.com/Mars_DeFi/status/2073379176565141982) |
+| Spark's Stablecoin FX Layer | Thread/Long form | Shared liquidity, programmable FX, and stablecoin infrastructure | [Read](https://x.com/Mars_DeFi/status/2071902887421346128) |
+| Bitcoin's Digital Asset Stack | Thread/Long form | Bitcoin-backed credit, money, yield, and digital capital markets | [Read](https://x.com/Mars_DeFi/status/2067587521404690511) |
+| Tokenized Equities | Thread/Long form | Tokenized stocks, market structure, and onchain equity infrastructure | [Read](https://x.com/Mars_DeFi/status/2067221851861117346) |
+| ERC-8126 Verification Layer | Thread/Long form | AI agent verification, risk scoring, and onchain trust infrastructure | [Read](https://x.com/Mars_DeFi/status/2066875416883978467) |
+| HYPE Spot ETFs | Thread/Long form | Staking ETFs, institutional demand, and Hyperliquid adoption | [Read](https://x.com/Mars_DeFi/status/2063936874255978804) |
+
+---
+
+## ✍ Learning Pill
+| Topic | Type | Focus | Link |
+|------|------|-------|------|
+
 
 ## 📊 Diagrams & Visual Explanations
 
